@@ -1,4 +1,9 @@
 {
     "editor.fontLigatures": true,
-    "editor.fontFamily": "'Fire Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'"
+    "editor.fontFamily": "'Fire Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "editor.rulers": [120]
 }
